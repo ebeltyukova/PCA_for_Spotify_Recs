@@ -1,5 +1,7 @@
 # PCA for Spotify Music Recommendation System
 
+https://ebeltyukova.github.io/PCA_for_Spotify_Recs/
+ 
 ## Project Overview
 This project is a **Music Recommendation System** designed to provide personalized song recommendations based on input criteria. Users can specify the name of a song, the artist, and their preferences for features such as danceability, loudness, and instrumentalness. The system identifies the song’s cluster using pre-computed clustering results, matches it with similar songs in the same cluster, and refines the recommendations based on the specified preferences.
 
