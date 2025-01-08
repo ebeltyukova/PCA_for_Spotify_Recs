@@ -50,43 +50,11 @@ The primary objective of this project is to create a robust and user-friendly mu
 
 ---
 
-## Dependencies
+## Demo
 
-- **Python Libraries**:
-  - `pandas`: For data manipulation.
-  - `numpy`: For numerical operations.
-  - `scikit-learn`: For PCA and clustering.
-  - `ipywidgets`: For creating the interactive user interface.
+https://github.com/user-attachments/assets/095b0b3b-8be2-4346-a948-d07a7817a4cb
 
----
 
-## File Descriptions
-
-- **`data/`**: Contains the dataset with song features and clustering results.
-- **`notebooks/`**: Jupyter notebooks with the implementation of the recommendation logic.
-- **`src/`**: Python scripts for preprocessing, clustering, and recommendation generation.
-- **`README.md`**: This file, providing an overview of the project.
-
----
-
-## Usage Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook or Python script to start the recommendation system.
-
-4. Use the interactive UI to input your preferences and get song recommendations.
-
----
 
 ## Future Enhancements
 
